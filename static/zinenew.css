@@ -1,0 +1,100 @@
+.zine-title {
+  margin-bottom: 2px;
+  font-size: 24px;
+}
+
+div.asset-meta { 
+padding: 0 0 15px 2px; 
+}
+
+.asset-footer { 
+padding-top: 10px;
+clear: both;
+margin-bottom: 1.4em;
+}
+
+.asset-body,
+.asset-more,
+.asset-more-link {
+}
+
+.byline {
+  font-size: 12px;
+}
+
+span.byline a { text-decoration: none; color: #999999 !important; }
+
+div.asset-body,
+div.asset-more {
+padding: 0 0 0px 0;
+font-size: 120%;
+}
+
+div.asset-more-link {
+padding: 10px;
+font-size: 120%;
+
+}
+
+div.asset-body img,
+div.asset-more img { 
+border: 0 
+}
+
+
+div.asset-body a,
+div.asset-more a,
+div.asset-more-link a {
+color:#999999;
+text-decoration:none;
+}
+
+a.author-link {
+font-weight:normal;
+color:#666666;
+text-decoration:none;
+}
+
+.image-left {
+float: left;
+margin: 0pt 10px 20px 0pt;
+width:300px;
+}
+
+.image-right {
+float: right;
+margin: 0pt 0pt 20px 10px;
+width:300px;
+}
+
+.image-center {
+margin: 0 auto;
+}
+
+.image-center img,
+.image-center a img {
+text-align: center; 
+display: block; 
+margin: 0 auto;
+}
+
+.photo-caption { 
+font-size: 12px;
+line-height: 120%; 
+padding-top: 6px; 
+width: 100%;
+}
+
+h1.thezine {
+  font-size: 20px;
+  padding-bottom: 10px;
+  color: #bd2408;
+}
+
+h1.thezine a {
+  color: #bd2408;
+}
+
+h2.zine-title a {
+  color: #bd2408;
+}
